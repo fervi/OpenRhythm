@@ -52,8 +52,11 @@ GCC-4.9+ or Clang-3.4+ (MacOS: download Xcode Command Line Utils)
 
 * Linux
     * Debian / Ubuntu / Linux Mint
-    ```sudo apt-get install cmake libsdl2-dev libfreetype-dev libglm-dev libfmt3-dev libyaml-cpp-dev libtclap-dev libsoundio-dev libsamplerate0-dev```
-    
+    ```
+    sudo apt-get install cmake libsdl2-dev libfreetype-dev libglm-dev libfmt3-dev libyaml-cpp-dev libtclap-dev libsoundio-dev libsamplerate0-dev
+    ```
+
+
     * ArchLinux / Manjaro / …
     ```
     sudo pacman -S cmake sdl2 freetype2 glm
