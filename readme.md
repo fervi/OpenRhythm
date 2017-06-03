@@ -51,9 +51,9 @@ This are x64 release builds done with VS 2015
 GCC-4.9+ or Clang-3.4+ (MacOS: download Xcode Command Line Utils)
 
 * Linux
-    * Debian / Ubuntu / Linux Mint
+    * Debian / Ubuntu / Linux Mint / …
     ```
-    apt install cmake libsdl2-dev libfreetype-dev libglm-dev libfmt3-dev libyaml-cpp-dev libtclap-dev libsoundio-dev libsamplerate0-dev
+    apt install cmake libsdl2-dev libfreetype-dev libglm-dev libfmt3-dev libyaml-cpp-dev libtclap-dev libsoundio-dev libsamplerate0-dev
     ```
 
 
